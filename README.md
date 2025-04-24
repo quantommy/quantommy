@@ -36,9 +36,10 @@ Integrating data science and AI to solve biomedical problems.
 
 <!-- GitHub stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrix-ice&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrix-ice&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 
 ## 📫 Connect with me
 
