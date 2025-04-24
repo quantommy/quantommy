@@ -1,5 +1,5 @@
 <!-- Add your banner image here -->
-![Banner](https://your-banner-image-url.jpg)
+<!--[Banner](https://your-banner-image-url.jpg) -->
 
 # David Tommy
 
@@ -42,8 +42,9 @@ Integrating data science and AI to solve biomedical problems.
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
+[![Discord](https://img.shields.io/badge/Discord-David%20Tommy%230001-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/quantommy)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([https://twitter.com/YourTwitterUsername](https://x.com/Dave_Tommx?t=O_j1yPcSd6qo4uo6cOELcA&s=09))
 
 <!-- Footer -->
 <div align="center">
