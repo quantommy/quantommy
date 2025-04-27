@@ -3,7 +3,7 @@
 
 # David Tommy
 
-> Data Scientist passionate about combining AI with biomedical solutions
+> Data Scientist I can do everything from maths to politics 
 
 ## 💻 Tech Stack
 
