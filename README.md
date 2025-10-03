@@ -273,14 +273,14 @@ mindmap
 <div align="center">
 
 <!-- Glassmorphism GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=matrix-ice&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=8B5CF6&text_color=6B7280&bg_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=quantommy&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=8B5CF6&text_color=6B7280&bg_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=matrix-ice&theme=transparent&hide_border=true&background=FFFFFF&ring=6366F1&fire=A855F7&currStreakLabel=8B5CF6" />
 
 <!-- Languages with Glass Effect -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrix-ice&layout=donut&theme=transparent&hide_border=true&title_color=6366F1&text_color=6B7280&bg_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantommy&layout=donut&theme=transparent&hide_border=true&title_color=6366F1&text_color=6B7280&bg_color=FFFFFF" />
 
 <!-- Activity Graph Glass Style -->
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=matrix-ice&theme=github-compact&hide_border=true&bg_color=FFFFFF&color=6366F1&line=A855F7&point=8B5CF6" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=quantommy&theme=github-compact&hide_border=true&bg_color=FFFFFF&color=6366F1&line=A855F7&point=8B5CF6" />
 
 </div>
 
