@@ -24,16 +24,10 @@
 
 </div>
 
-<!-- Soft Data Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="300 " style="border-radius: 15px; opacity: 0.8;">
-</div>
 
----
 
 ## 💫 **THE DATA SCIENTIST PROFILE**
 
-<img align="right" alt="Data Science" width="350" src="https://media.giphy.com/media/l378bu6ZYmzS6nBrW/giphy.gif" style="border-radius: 20px; opacity: 0.9;">
 
 <div align="left">
 
